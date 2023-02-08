@@ -13,9 +13,18 @@ namespace Ecuacion_Linear
         static void Main(string[] args)
         {
             Console.WriteLine("********************** Programa que calcula ecuaciones lineales del primer grado **********************");
+            Console.WriteLine("Ingrese su primer valor: ");
+            double valor1 = double.Parse(Console.ReadLine());
 
+            Console.WriteLine("Ingrese su segundo valor: ");
+            double valor2 = double.Parse(Console.ReadLine());
 
-
+            if (valor1 != 0)
+            {
+                double x = -valor2 / valor1;
+                Console.WriteLine("El valor de x es: " + x);
+            }
+          Console.ReadLine();   
         }
     }
 }

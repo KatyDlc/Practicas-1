@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salarios", "Salarios\Salari
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecuacion_Linear", "Ecuacion_Linear\Ecuacion_Linear.csproj", "{ABCDF798-46CC-4926-BF30-C1FB04262A94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutaciones", "Permutaciones\Permutaciones.csproj", "{61414F43-19A6-4402-B306-99CA128188A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combinaciones", "Combinaciones\Combinaciones.csproj", "{FC015E30-35A0-40BD-836A-18A57E11CF07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{ABCDF798-46CC-4926-BF30-C1FB04262A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABCDF798-46CC-4926-BF30-C1FB04262A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABCDF798-46CC-4926-BF30-C1FB04262A94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61414F43-19A6-4402-B306-99CA128188A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61414F43-19A6-4402-B306-99CA128188A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61414F43-19A6-4402-B306-99CA128188A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61414F43-19A6-4402-B306-99CA128188A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC015E30-35A0-40BD-836A-18A57E11CF07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC015E30-35A0-40BD-836A-18A57E11CF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC015E30-35A0-40BD-836A-18A57E11CF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC015E30-35A0-40BD-836A-18A57E11CF07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
